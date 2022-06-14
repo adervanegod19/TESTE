@@ -1,0 +1,39 @@
+.container-info {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 250px;
+    height: 200px;
+    padding: 0px 10px;
+    background-color: #032e42b7;
+    border-radius: 10px;
+    box-shadow: 0px 0px 4px rgba(43, 43, 43, 0.507);
+    text-align: center;
+}
+
+.titulo-info {
+    font-size: 15pt;
+    margin: 0;
+}
+
+.linha {
+    margin: 0 auto 0 auto;
+    width: 195px;
+    height: 1px;
+    background-color: white;
+}
+
+
+
+
+
+
+
